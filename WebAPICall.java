@@ -14,9 +14,9 @@ import com.google.gson.JsonParser;
 
 public class WebAPICall {
 
-    private static final String OPENWEATHERMAP_API_KEY = "fa16782b7de1f3cf3e96affe23a2201d";
-    private static final String SPOTIFY_CLIENT_ID = "b5d43ece12ee4b60b6c27b1d5a6c3af1";
-    private static final String SPOTIFY_CLIENT_SECRET = "6b7df6bc71c94daf90df91e790293a49";
+    private static final String OPENWEATHERMAP_API_KEY = "api-key";
+    private static final String SPOTIFY_CLIENT_ID = "api-key";
+    private static final String SPOTIFY_CLIENT_SECRET = "api-key";
 
 
     public static void main(String[] args) {
